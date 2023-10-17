@@ -1,4 +1,4 @@
 # myzshrc
 
 Oi
-bao
+nada
