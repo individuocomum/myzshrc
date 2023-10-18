@@ -1,2 +1,3 @@
 # myzshrc
 lalala
+kkkk
