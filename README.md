@@ -1,5 +1,2 @@
 # myzshrc
-lalala
-kkkk
-oi
-ipojikwopcpojpoio
+jndsh
