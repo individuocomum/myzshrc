@@ -1,3 +1,4 @@
 # myzshrc
 lalala
 kkkk
+oi
